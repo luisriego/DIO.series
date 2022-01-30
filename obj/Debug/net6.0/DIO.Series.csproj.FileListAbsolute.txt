@@ -1,0 +1,15 @@
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/luisriego/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series
+/home/luisriego/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/luisriego/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/luisriego/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.dll
+/home/luisriego/dotnet/DIO.Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/luisriego/dotnet/DIO.Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.dll
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/luisriego/dotnet/DIO.Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache
